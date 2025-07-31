@@ -23,4 +23,4 @@
 4. Open `localhost/bookstore` in your browser
 
 ## Author
-Hussein El Mazbouh , Majd Selman ,Malk Serhan .
+Hussein El Mazbouh , Majd Selman ,  Malk Serhan .
